@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Microbe&display=swap');
+*{
+ font-family: 'Rubik Microbe', cursive;
+}
+#container {
+  width: 900px;
+  margin: 0 auto;
+   background-color: black;
+}
+#nav {
+  width: 300px;
+  float: left;
+   background-color: black;
+  color: white;
+}
+#aside {
+  width: 300px;
+  float: right;
+   background-color: yellow;
+  color: black;
+}
+#content {
+  margin: 0 300px 0 200px;
+  background-color: black;
+  color: white;
+}
+#header, #footer {
+  text-align: center;
+  background-color: red;
+}
+#foter: {
+  background-color: black;
+  color: white;
+}
+a {
+  text-decoration: none;
+  background-color: green;
+  color: white;
+}
+ul {
+ color: blue;
+}
+  img {
+  padding: 10px;
+  border: 10px solid ;
+  margin: 10px;
+}
